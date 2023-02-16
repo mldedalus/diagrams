@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T10:39:38.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="lRLRumMy45tN9U5Kmx2B" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T10:41:42.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="z0gPxu_taO1DdpWdl57A" version="20.8.20" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1689" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="10" value="Build FHIR Bundle" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="252" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eZQgq3BQvjqBqlgC4xst-42" value="Build FHIR Bundle" style="" vertex="1" parent="2">
+        <mxCell id="eZQgq3BQvjqBqlgC4xst-42" value="Validate FHIR &#xa;Bundle" style="" vertex="1" parent="2">
           <mxGeometry x="60" y="322" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eZQgq3BQvjqBqlgC4xst-44" value="Upload to &#xa;Syndication" style="" vertex="1" parent="2">
