@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:21:35.389Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="NGAtR5MtDnm7jG2rN0GY" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T08:52:17.327Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="IPL0RYVlOSVwCMdyWwVN" version="21.6.7" type="github">
   <diagram name="Page-1" id="IfO4KlaMefnt0QP_XdHf">
-    <mxGraphModel dx="2074" dy="1097" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,25 +134,34 @@
           <mxGeometry x="135.88" y="208.5" width="196.25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3x7R4wl11121WuhaWvUq-37" value="Patient View" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
-          <mxGeometry x="346" y="216" width="110" height="90" as="geometry" />
+          <mxGeometry x="367" y="216" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3x7R4wl11121WuhaWvUq-39" value="Clincial View" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
-          <mxGeometry x="481" y="216" width="110" height="90" as="geometry" />
+          <mxGeometry x="495" y="216" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3x7R4wl11121WuhaWvUq-40" value="SwiftQueue" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
-          <mxGeometry x="617" y="216" width="110" height="90" as="geometry" />
+          <mxGeometry x="618" y="216" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3x7R4wl11121WuhaWvUq-41" value="Document Central" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
-          <mxGeometry x="748" y="216" width="110" height="90" as="geometry" />
+          <mxGeometry x="743" y="216" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3x7R4wl11121WuhaWvUq-42" value="Clinalytix" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
-          <mxGeometry x="559" y="399.5" width="110" height="90" as="geometry" />
+        <mxCell id="3x7R4wl11121WuhaWvUq-42" value="&lt;div&gt;Clinalytix&lt;/div&gt;&lt;div&gt;Investigative&lt;/div&gt;&lt;div&gt;(Dashboards)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
+          <mxGeometry x="367" y="399.5" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3x7R4wl11121WuhaWvUq-43" value="AI Ready/Airflow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
+        <mxCell id="3x7R4wl11121WuhaWvUq-43" value="Airflow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" parent="1" vertex="1">
           <mxGeometry x="797.5" y="698" width="147.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_SXIoyWeP93o5Hylsysg-1" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Montserrat&quot;&gt;&lt;b&gt;Insight&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-90;fillColor=#1a5fb4;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="156.25" y="402.75" width="151" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_SXIoyWeP93o5Hylsysg-4" value="AI Ready" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="495" y="399.5" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_SXIoyWeP93o5Hylsysg-5" value="BI4H&lt;br&gt;(Reporting)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="618" y="399.5" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_SXIoyWeP93o5Hylsysg-6" value="&lt;div&gt;Clinalytix&lt;/div&gt;&lt;div&gt;Research&lt;/div&gt;&lt;div&gt;(Research APIs)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#eeefff;fontColor=#3d3846;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="743" y="399.5" width="116" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
